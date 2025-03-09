@@ -1,2 +1,3 @@
-# prime
-Prime Wallet - a new kind of Crypto wallet. Simple. Functional. Secure.
+# Pragma Wallet
+
+A new kind of Crypto wallet. Simple. Functional. Secure.
