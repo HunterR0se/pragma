@@ -1,3 +1,3 @@
 # Pragma Wallet
 
-A new kind of Crypto wallet. Simple. Functional. Secure.
+A new kind of Crypto wallet. Fast. Functional. Secure.
